@@ -280,7 +280,7 @@ function initEstimateForm() {
     if (notes) smsBody += `• Details: ${notes}\n`;
 
     // Phone number to receive the SMS
-    const destPhone = '6674066667';
+    const destPhone = '7206200654';
 
     // iOS uses '&body=' while Android and modern standards use '?body='
     const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
